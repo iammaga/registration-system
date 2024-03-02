@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.form-group {
+  margin-bottom: 30px;
+}
+.form-btn {
+  margin-bottom: 16px;
+}
+input {
+  width: 100%;
+}
+h1 {
+  margin-bottom: 24px;
+}
+.info {
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+}
